@@ -199,7 +199,7 @@ if (isset($_SESSION["user"])) {
                             ";
                             $mail->send();
                             
-                            echo "<div class='REGISTER'>You are registered successfully. A confirmation email has been sent.</div>"; 
+                            echo "<div class='REGISTER2'>You are registered successfully. A confirmation email has been sent.</div>"; 
                         }
                             else
                             {
