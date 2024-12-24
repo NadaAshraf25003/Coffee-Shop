@@ -1528,7 +1528,26 @@ header .search-bar-container label:hover{
         font-size: 20px;
         font-weight: 400;
     }
-   
+   .Section7 .btn{
+        text-align: center;
+    }
+    .Section7 .btn button{
+        border: none;
+        background-color: #C7A17A;
+        color: #FFFFFF;
+        padding: 1.3rem 1.8rem;
+        margin: 3.6rem 0;
+        width: 200px;
+        cursor: pointer;
+        transition: 0.5s;
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    .Section7 .btn button:hover{
+        background-color: var(--fifth);
+        color: var(--color-white);
+    }
 
     /* section_7 end */
     
