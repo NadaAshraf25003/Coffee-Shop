@@ -779,7 +779,10 @@ session_start();
                 </div>
             </div>
         </div>
-        
+        <div class="btn">
+            <a href="shop/products.php"><button data-aos="flip-down" 
+            data-aos-duration="1400">More Products</button></a>
+        </div>
     </section>
     <!-- Section7 end -->
 
